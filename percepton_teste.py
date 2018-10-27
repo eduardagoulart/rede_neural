@@ -1,4 +1,5 @@
 import tensorflow as tf #importing the tensorflow library
+
 T, F = 1.0, -1.0   #True has the +1.0 value and False has -1.0, it's important to note that
 # you can assign any value to them
 bias = 1.0
